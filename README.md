@@ -3,7 +3,7 @@ There's not much to put here, this is just a Git repository that will serve as t
 
 ## **Office Hours:**
 * Tuesday: 12:00 - 1:00 PM w/ the Professor.
-* Thursday: 3:10 - 4:10 PM w/ the TA.
+* Thursday: 2:10 - 3:10 PM w/ the TA.
 
 
 ## **Specific Topics:**
